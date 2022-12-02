@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Stark_Industries_Logo.png",
+    "companyName": "Stark Industries",
+    "title": "DevOps Engineer",
+    "date": "20/11/22"
+  },
+  {
+    "id": 2,
+    "companyLogo": "https://orlandoinformer.com/wp-content/uploads/2014/07/ollivanders-wand-shop-universal-studios-florida-8211-oi.jpg",
+    "companyName": "Ollivander's Wand Shop",
+    "title": "Backend Engineer",
+    "date": "02/11/22"
+  },
+  {
+    "id": 3,
+    "companyLogo": "https://logos-world.net/wp-content/uploads/2022/05/Wonka-Logo.png",
+    "companyName": "Wonka Industries",
+    "title": "Frontend Engineer",
+    "date": "28/11/22"
+  },
+  {
+    "id": 4,
+    "companyLogo": "https://www.pngitem.com/pimgs/m/343-3433384_krusty-krab-logo-png-transparent-png.png",
+    "companyName": "Krusty Krab",
+    "title": "Junior Frontend Engineer",
+    "date": "30/11/22"
+  }
+]
